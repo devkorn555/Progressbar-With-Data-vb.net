@@ -1,0 +1,14 @@
+D:\Project Vb\Progress\Progress\bin\Debug\Progress.exe.config
+D:\Project Vb\Progress\Progress\bin\Debug\Progress.exe
+D:\Project Vb\Progress\Progress\bin\Debug\Progress.pdb
+D:\Project Vb\Progress\Progress\bin\Debug\Progress.xml
+D:\Project Vb\Progress\Progress\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Project Vb\Progress\Progress\bin\Debug\Guna.UI2.dll
+D:\Project Vb\Progress\Progress\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Project Vb\Progress\Progress\obj\Debug\Progress.vbprojResolveAssemblyReference.cache
+D:\Project Vb\Progress\Progress\obj\Debug\Progress.Form1.resources
+D:\Project Vb\Progress\Progress\obj\Debug\Progress.Resources.resources
+D:\Project Vb\Progress\Progress\obj\Debug\Progress.vbproj.GenerateResource.Cache
+D:\Project Vb\Progress\Progress\obj\Debug\Progress.exe
+D:\Project Vb\Progress\Progress\obj\Debug\Progress.xml
+D:\Project Vb\Progress\Progress\obj\Debug\Progress.pdb
